@@ -47,5 +47,12 @@
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/mk.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/MortalKombat2021.avi?alt=media&token=f46c7458-1cb0-48ed-86fa-d6ee98d37933",
         "IsFeatured": false
+    },
+    {
+        "Title": "Wall E",
+        "Synopsis": "A machine responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/mk.jpg",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/WallE(2008).mkv?alt=media&token=cb87ecad-57af-4948-ac2b-453c5a590d6a",
+        "IsFeatured": false
     }
 ]
