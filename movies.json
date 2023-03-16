@@ -89,5 +89,12 @@
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/oliver.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/OliverTwist.mp4?alt=media&token=c30b4a95-5050-4a87-9960-177c2f97340d",
         "IsFeatured": false
+    },
+    {
+        "Title": "The Croods: A New Age",
+        "Synopsis": "While looking for a home, the Croods stumble into the walled land owned by the Betterman family. They are looked down upon by the technologically advanced Bettermans but help them during a crisis.",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/oliver.jpg",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/OliverTwist.mp4?alt=media&token=c30b4a95-5050-4a87-9960-177c2f97340d",
+        "IsFeatured": false
     }
 ]
