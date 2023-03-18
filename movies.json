@@ -81,7 +81,7 @@
         "Synopsis": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/capbarbosandaughter.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/PiratesofTheCaribbean3.mp4?alt=media&token=88208137-2011-4dc3-88ce-517d7961b54e",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "Mad Max Fury",
@@ -95,7 +95,7 @@
         "Synopsis": "Oliver's fortunes change for the better when he gets an opportunity to start a new life. But there are those who hold the truth to his real identity and are determined to ruin and destroy him. | Release date: September 24, 2005 (Czechia) | Director: Roman Polanski | Story by: Charles Dickens | Producers: Roman Polanski, Robert Benmussa, Alain Sarde | Adapted from: Oliver Twist | Music composed by: Rachel Portman",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/Oliver_Twist_(2005_film)_poster.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/OliverTwist.mp4?alt=media&token=c30b4a95-5050-4a87-9960-177c2f97340d",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "The Croods: A New Age",
