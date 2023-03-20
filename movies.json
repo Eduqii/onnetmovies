@@ -88,7 +88,7 @@
         "Synopsis": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/capbarbosandaughter.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/PiratesofTheCaribbean3.mp4?alt=media&token=88208137-2011-4dc3-88ce-517d7961b54e",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "Mad Max Fury",
@@ -109,7 +109,7 @@
         "Synopsis": "While looking for a home, the Croods stumble into the walled land owned by the Betterman family. They are looked down upon by the technologically advanced Bettermans but help them during a crisis.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/croods2francais.jpg",
         "Url": "https://eduqii.github.io/Roadies/vids/Roadies_store_video.mp4",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "Mortal Kombat",
