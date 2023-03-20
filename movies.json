@@ -1,16 +1,16 @@
 [
     {
         "Title": "Big Hero 6",
-        "Synopsis": "Hiro Hamada, a robotics prodigy, joins hands with Baymax in order to avenge his brother's death. They then team up with Hiro's friends to form a team of high-tech heroes.",
+        "Synopsis": "Hiro Hamada, a robotics prodigy, joins hands with Baymax in order to avenge his brother's death. They then team up with Hiro's friends to form a team of high-tech heroes. ",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/bighero6.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/BigHero6(2014).mkv?alt=media&token=75c81128-1211-4359-91da-1251c3daf6ae",
         "IsFeatured": false
     },
     {
-        "Title": "Ratatouille",
-        "Synopsis": "Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him. | Genre: Family/Comedy",
-        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/ratatouille.jfif",
-        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/Ratatouille_2007.mkv?alt=media&token=cf9b7f67-95f3-44c8-8713-c3cfc66b1499",
+        "Title": "Joahamyeon Ulineun",
+        "Synopsis": "Joahamyeon Ulineun is a TV series starring Kim So-Hyun, Song Kang, and Ga-ram Jung. In a world where an app alerts people if someone in the vicinity likes them, Kim Jojo experiences young love while coping with personal adversities.",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/bighero6.jpg",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/BigHero6(2014).mkv?alt=media&token=75c81128-1211-4359-91da-1251c3daf6ae",
         "IsFeatured": false
     },
     {
@@ -18,6 +18,13 @@
         "Synopsis": "A machine responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of Mankind. | Genre: Family/Adventure | Release Date: June 2008",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/WallE.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/WallE(2008).mkv?alt=media&token=cb87ecad-57af-4948-ac2b-453c5a590d6a",
+        "IsFeatured": false
+    },
+    {
+        "Title": "Ratatouille",
+        "Synopsis": "Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him. | Genre: Family/Comedy",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/ratatouille.jfif",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/Ratatouille_2007.mkv?alt=media&token=cf9b7f67-95f3-44c8-8713-c3cfc66b1499",
         "IsFeatured": false
     },
     {
