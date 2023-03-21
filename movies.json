@@ -53,7 +53,7 @@
         "Synopsis": "A 12-year-old boy looking to impress the girl of his dreams searches for one thing that can grab her attention. For that, he is required to know the story of Lorax, a charming creature.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/loraxlogo.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/The%20Lorax%20(2012).mkv?alt=media&token=0c621eab-c960-42d5-b000-12cfb77bc04c",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "My Kids and I",
@@ -137,7 +137,7 @@
         "Synopsis": "The film follows Cole Young, a washed-up mixed martial arts fighter who is unaware of his hidden lineage or why the assassin Sub-Zero is hunting him down.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/mortal_kombat_2021_line_up_debut_1920.jpg",
         "Url": "https://eduqii.github.io/Roadies/vids/Roadies_store_video.mp4",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "300",
