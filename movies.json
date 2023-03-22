@@ -4,7 +4,7 @@
         "Synopsis": "Joahamyeon Ulineun is a TV series starring Kim So-Hyun, Song Kang, and Ga-ram Jung. In a world where an app alerts people if someone in the vicinity likes them, Kim Jojo experiences young love while coping with personal adversities. | Get the rest of the episodes on NetFlix",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/JU.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/KDramaS01E04.mkv?alt=media&token=23216ea3-45f7-4ea3-a9a5-44df5f0a7a73",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "Big Hero 6",
@@ -60,7 +60,7 @@
         "Synopsis": "Three kids sisters returned to Nigerian from the United States of America with their father. They needed a maid who will cater for them and their needs. | Publisher(s): Nolly Great Movies | Here is a combination of humor, comedy, morals, love and how to raise kids in the right way.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/mykidsandi.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/MyKids.MP4?alt=media&token=af7fa2a3-62b2-4edd-a60c-71d3ec355005",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "The Sea Beast",
