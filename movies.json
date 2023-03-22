@@ -123,7 +123,7 @@
         "Synopsis": "Joahamyeon Ulineun is a TV series starring Kim So-Hyun, Song Kang, and Ga-ram Jung. In a world where an app alerts people if someone in the vicinity likes them, Kim Jojo experiences young love while coping with personal adversities. | Genre: Comedy, Drama, Romance.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/JU.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/KDramaS01E01.mkv?alt=media&token=619c74bb-e30b-48c8-b154-1ea4c5b17291",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "Joahamyeon Ulineun S01E03",
@@ -137,7 +137,7 @@
         "Synopsis": "The film follows Cole Young, a washed-up mixed martial arts fighter who is unaware of his hidden lineage or why the assassin Sub-Zero is hunting him down.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/mortal_kombat_2021_line_up_debut_1920.jpg",
         "Url": "https://eduqii.github.io/Roadies/vids/Roadies_store_video.mp4",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "300",
