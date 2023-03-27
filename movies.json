@@ -88,7 +88,7 @@
         "Synopsis": "Cantankerous Robert 'Granddad' Freeman is the legal guardian of his grandsons, 10-year-old revolutionary Huey and 8-year-old Riley, a product of contemporary rap culture. After moving the family from Chicago's South Side to the safety of suburban Woodcrest -- aka the boondocks -- Granddad hopes to ignore the grandkids and enjoy his golden years in peace. But the kids have different plans, torturing each other and provoking others in the neighborhood. No matter how wild they get, Huey and Riley are no match for the eccentric elderly man.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/Boondocks_season_3_DVD.png",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/TheBoondocksMarathon10.mp4?alt=media&token=4a47c3b6-8205-4728-b6f7-9fbfe07543fd",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "Nobody",
@@ -166,7 +166,7 @@
         "Thumbnail": "https://devcrux.com/wp-content/uploads/136537.jpg",
         "Url": "https://movietrailers.apple.com/movies/independent/valley-girl/valley-girl-trailer-1_h480p.mov",
         "IsFeatured": false
-    }
+    },
     {
         "Title": "Blackish Season 1 Episode 01",
         "Synopsis": "Black-ish is a TV series starring Anthony Anderson, Tracee Ellis Ross, and Marcus Scribner. A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood. | Genre: 🤣 Comedy | Publisher(s): Hulu",
@@ -193,7 +193,7 @@
         "Synopsis": "Black-ish is a TV series starring Anthony Anderson, Tracee Ellis Ross, and Marcus Scribner. A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood. | Genre: 🤣 Comedy | Availability: Hulu",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/blackish.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/BlackishS01E04.mkv?alt=media&token=76722009-75ad-4ce2-920d-a483e795f69b",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "Blackish Season 1 Episode 05",
