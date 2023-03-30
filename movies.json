@@ -81,7 +81,7 @@
         "Synopsis": "Follow our blog post on instagram to get the latest posts and gists. @roadies_blog | Catch more action on Hulu, Netflix and also get the best movie trailers. | For information about Ads and promos, send us a message at roadiesmovies@gmail.com",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/roadies.png",
         "Url": "https://eduqii.github.io/Roadies/vids/adbestmovieclips.mp4",
-        "IsFeatured": false
+        "IsFeatured": true
     },
     {
         "Title": "The BoonDocks",
@@ -193,7 +193,7 @@
         "Synopsis": "Black-ish is a TV series starring Anthony Anderson, Tracee Ellis Ross, and Marcus Scribner. A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood. | Genre: 🤣 Comedy | Availability: Hulu",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/blackish.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/BlackishS01E04.mkv?alt=media&token=76722009-75ad-4ce2-920d-a483e795f69b",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "Blackish Season 1 Episode 05",
