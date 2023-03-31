@@ -1,5 +1,5 @@
 # onnetmovies
 
-Special thanks to Oludayo Alli for the prototype
+Special thanks to our great UI developers(OA) for the prototype
 
 Prototyping developed by Benit-Apollo Solutions
