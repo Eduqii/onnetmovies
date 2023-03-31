@@ -217,6 +217,13 @@
         "IsFeatured": false
     },
     {
+        "Title": "Family Guy",
+        "Synopsis": "In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/familyguy.jpg",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/FamilyGuySeason20Ep14FullEpisode-FamilyGuy2023FullNocuts1080p.mp4?alt=media&token=fad854c4-2de2-4520-abfc-782256a0596a",
+        "IsFeatured": false
+    },
+    {
         "Title": "Love Scenery Season 1 Episode 02",
         "Synopsis": "is a 2021 Chinese television series directed by Qin Zhen, adapted from the novel 'A bright spear is easy to hide, but a secret love is hard to prevent' (明枪易躲，暗恋难防) by Qiao Yao. It starred Lin Yi and Xu Lu in the leading roles.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/Love_Scenery_official_poster.jpg",
