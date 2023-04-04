@@ -61,5 +61,12 @@
         "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/You%20re%20My%20Best%20Friend%20-%20Don%20Williams.m4a?alt=media&token=8d748037-d539-4c9e-8541-daffa80c67e2",
         "CoverImage": "https://eduqii.github.io/onnetmovies/tracks/artcovers/albart3.jpg",
         "IsRecent": false
+    },
+    {
+        "Title": "Hey Moon",
+        "Artist": "John Maus",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/Hey%20Moon%20%20%20John%20Maus.mp3?alt=media&token=2e9cdcef-49c8-4c55-9844-9bbd68b454c7",
+        "CoverImage": "https://eduqii.github.io/onnetmovies/tracks/artcovers/albart3.jpg",
+        "IsRecent": false
     }
 ]
