@@ -26,6 +26,12 @@
         "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/Don%20Williams%20-%20Listen%20To%20The%20Radio%20(128).mp3?alt=media&token=b1d49c83-1695-41f9-812c-8f8104b59518",
         "CoverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRU6FVly4jMTD3AKB_sHxqPofJVQwqqUj5peEvgA1H4XegM3uJ7&usqp=CAU",
         "IsRecent": false
+    },
+    {
+        "Title": "God Will Make A Way",
+        "Artist": "Don Moen",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/Don_Moen_-_God_Will_Make_A_Way_(2003).m4a?alt=media&token=be091616-c2e4-44e9-9ef1-e7cd8cf4e675",
+        "CoverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRU6FVly4jMTD3AKB_sHxqPofJVQwqqUj5peEvgA1H4XegM3uJ7&usqp=CAU",
+        "IsRecent": false
     }
-    
 ]
