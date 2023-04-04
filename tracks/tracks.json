@@ -47,5 +47,12 @@
         "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/Blue%20Is%20My%20Middle%20Name%20-%20Ray%20Charles.m4a?alt=media&token=110db910-1f68-46a0-89ed-116c72878745",
         "CoverImage": "https://eduqii.github.io/onnetmovies/tracks/artcovers/albart5.jpg",
         "IsRecent": false
+    },
+    {
+        "Title": "The Last Goodbye",
+        "Artist": "Billy Boyd",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/Billy%20Boyd.m4a?alt=media&token=41fcfc6d-02d9-4fed-82ff-8285083d70ac",
+        "CoverImage": "https://eduqii.github.io/onnetmovies/tracks/artcovers/albart2.jpg",
+        "IsRecent": false
     }
 ]
