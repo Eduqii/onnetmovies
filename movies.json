@@ -18,6 +18,13 @@
         "Synopsis": "is a 2021 Chinese television series directed by Qin Zhen, adapted from the novel 'A bright spear is easy to hide, but a secret love is hard to prevent' (明枪易躲，暗恋难防) by Qiao Yao. It starred Lin Yi and Xu Lu in the leading roles.",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/Love_Scenery_official_poster.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/LvScnryE04.mp4?alt=media&token=0e357061-8201-4e03-9a98-1f27f3f28f0d",
+        "IsFeatured": true
+    },
+    {
+        "Title": "Coming 2 America",
+        "Synopsis": "Needing a male heir to the throne, Prince Akeem returns to New York, to find his long-lost son and bring him back to Zamunda.",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/Love_Scenery_official_poster.jpg",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/Coming%202%20America%202021%20720p.mp4?alt=media&token=e697b025-de54-4f87-a8d7-6fb18347e218",
         "IsFeatured": false
     },
     {
@@ -88,7 +95,7 @@
         "Synopsis": "Follow our blog post on instagram to get the latest posts and gists. @roadies_blog | Catch more action on Hulu, Netflix and also get the best movie trailers. | For information about Ads and promos, send us a message at roadiesmovies@gmail.com | New Features: Coming this Spring, you would be able to sync and stream on multiple devices, download and watch offline, and 24/7 on and offline support. Coming soon. | Use this promo code to gain 62 days of free streaming service: GXJB76552832",
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/roadies.png",
         "Url": "https://eduqii.github.io/Roadies/vids/adbestmovieclips.mp4",
-        "IsFeatured": true
+        "IsFeatured": false
     },
     {
         "Title": "The BoonDocks",
