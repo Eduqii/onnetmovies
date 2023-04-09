@@ -96,5 +96,12 @@
         "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/Bob%20Marley%20%E2%80%93%20Soul%20Rebel.mp3?alt=media&token=15f7156c-b553-448c-b8d4-3d2dbc9bc3b0",
         "CoverImage": "https://eduqii.github.io/onnetmovies/tracks/artcovers/albart6.jpg",
         "IsRecent": false
+    },
+    {
+        "Title": "Billie Jean",
+        "Artist": "Michael Jackson",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/ultracklist.appspot.com/o/1-08%20-%20Michael%20Jackson%20-%20Billie%20Jean.flac?alt=media&token=fbb1f908-31a9-407b-9f86-0fa4f39c6750",
+        "CoverImage": "https://eduqii.github.io/onnetmovies/tracks/artcovers/mj.jpg",
+        "IsRecent": false
     }
 ]
