@@ -26,12 +26,5 @@
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/boonnext.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/Boondocks_APimpNamedSlickbackCompilation.mp4?alt=media&token=9351109c-cc71-4ff3-9697-6e638a0aba1c",
         "IsFeatured": true
-    },
-    {
-        "Title": "Monster Hunter",
-        "Synopsis": "Genres: Action, 🌋 Adventure, ✨ Fantasy | Monster Hunter is a movie starring Milla Jovovich, Tony Jaa, and Ron Perlman. When Lt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with ...",
-        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/monsterhunter.jpg",
-        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/Monster.Hunter.2020.720p.Web.Skmoviesx.mkv?alt=media&token=3f54d6bf-ee1f-4896-850d-cb0c6ef06a82",
-        "IsFeatured": false
     }
 ]
