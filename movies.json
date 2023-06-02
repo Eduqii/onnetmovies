@@ -26,5 +26,12 @@
         "Thumbnail": "https://eduqii.github.io/onnetmovies/img/boonnext.jpg",
         "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/Boondocks_APimpNamedSlickbackCompilation.mp4?alt=media&token=9351109c-cc71-4ff3-9697-6e638a0aba1c",
         "IsFeatured": true
+    },
+    {
+        "Title": "Family Guy",
+        "Synopsis": "Peter Griffin and his family of two teenagers, a smart dog, a devilish baby and his wife find themselves in some of the most hilarious scenarios.",
+        "Thumbnail": "https://eduqii.github.io/onnetmovies/img/familyguy.jpg",
+        "Url": "https://firebasestorage.googleapis.com/v0/b/onnetmovies.appspot.com/o/FamilyGuySeason20Ep14FullEpisode-FamilyGuy2023FullNocuts1080p.mp4?alt=media&token=fad854c4-2de2-4520-abfc-782256a0596a",
+        "IsFeatured": false
     }
 ]
